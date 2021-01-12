@@ -1,0 +1,11 @@
+{
+  "name": "jas-complier",
+  "version": "1.0.0",
+  "description": "web team's compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jerome,Jerfin,Abhishek,Siva,Shereen",
+  "license": "MIT"
+}

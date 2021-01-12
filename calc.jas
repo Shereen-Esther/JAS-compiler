@@ -1,0 +1,8 @@
+# a = 10;
+## b = 100;
+
+show(a*b);
+show(a+b);
+show(b/a);
+show(a-b);
+show(a%b);
